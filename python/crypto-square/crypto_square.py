@@ -18,4 +18,3 @@ def cipher_text(plain_text):
     ciphertext = ciphertext[:-1]
     return ciphertext
 
-cipher_text("If man was meant to stay on the ground, god would have given us roots.")
